@@ -1,0 +1,72 @@
+body{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    padding: 20px;
+    text-align: center;
+    font-size: 50px;
+}
+*{
+    margin:0;
+    padding: 0;
+}
+
+.table-component {
+  
+   
+    width: 95%;
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    background-color: white;
+}
+ .body-component{
+    display: flex;
+    flex-direction: column;
+ 
+    align-items: center;
+    background-color: #e6e6e6;
+    height: 100vh;
+    width: 100vw;
+ }
+.body-component .raw-component
+{
+    text-decoration: underline;
+    border-bottom:2px solid black;
+    text-align: left;
+}
+ 
+.table-component thead tr {
+    text-align: left;
+}
+ 
+.table-component th,
+.table-component td {
+    padding: 12px 15px;
+  
+}
+ th{
+    font-size: 35px;
+  
+ }
+ td{
+    font-size: 25px;
+    
+ }
+ 
+.table-component tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+.volver{
+    
+    color: white;
+    font-size: 30px;
+    font-weight: 900;
+    padding: 20px;
+    background-color: black;
+    border-radius: 10px;
+}
