@@ -1,0 +1,70 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #ecebeb;
+}
+h2 {
+  padding: 10px;
+  text-align: center;
+  font-size: 50px;
+}
+.tablecomponent {
+  width: 95%;
+  border-collapse: collapse;
+  margin: 25px 0;
+  font-size: 0.9em;
+  font-family: sans-serif;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+  background-color: white;
+}
+.bodycomponent {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  height: 100vh;
+  width: 100vw;
+}
+.bodycomponent .rawcomponent {
+  border-bottom: 2px solid black;
+  text-align: left;
+}
+
+.tablecomponent thead tr {
+  text-align: left;
+}
+
+.tablecomponent th,
+.tablecomponent td {
+  padding: 12px 15px;
+}
+th {
+  font-size: 25px;
+}
+td {
+  font-size: 20px;
+}
+
+.tablecomponent tbody tr {
+  border-bottom: 1px solid #dddddd;
+}
+.volver {
+  color: white;
+  font-size: 20px;
+  font-weight: 900;
+  padding: 20px;
+  background-color: black;
+  border-radius: 10px;
+}
+
+@media only screen and (max-width: 675px) {
+  h2 {
+    font-size: 30px;
+  }
+}
+@media only screen and (max-width: 400px) {
+  h2 {
+    font-size: 20px;
+  }
+}
