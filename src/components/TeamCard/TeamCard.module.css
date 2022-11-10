@@ -1,0 +1,20 @@
+button {
+  cursor: pointer;
+  box-shadow: 0px 10px 2px rgb(110, 110, 110);
+}
+button h2 {
+  font-family: "Dosis", sans-serif;
+  color: rgb(172, 84, 37);
+  font-size: 500%;
+}
+
+.team {
+  margin: 20px;
+  width: 250px;
+  height: 250px;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: 100;
+}

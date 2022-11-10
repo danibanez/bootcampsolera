@@ -1,28 +1,39 @@
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import './index.css';
-import App from './App';
+import ReactDOM from "react-dom/client";
+import "./index.css";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-import Main from './Components/Main';
-import ScoreList from './Components/ScoreList';
-import reportWebVitals from './reportWebVitals';
+import Main from "./pages/Main";
+import TableView from "./pages/TableView";
+import teamdata from "./data/teamdata";
 
-const root = ReactDOM.createRoot(document.getElementById('root'));
+const root = ReactDOM.createRoot(document.getElementById("root"));
+
+// Adds each team's total points to display on its Team Card
+function sumPoints(teamdata) {
+  let points = 0;
+  teamdata.actividades.forEach((actividad) => {
+    console.log(actividad.puntos);
+    points += actividad.puntos;
+  });
+  return points;
+}
+
+// Route definition
 root.render(
-
   <BrowserRouter>
-  <Routes>
-    <Route path="/" element={<Main/>}>
-     
-    </Route>
-    <Route path = "lista" element={<ScoreList/>}></Route>
-  </Routes>
-  
-  
+    <Routes>
+      <Route
+        path="/"
+        element={<Main teamdata={teamdata} sumPoints={sumPoints} />}
+      ></Route>
+      {
+        // A separate table view will be created for each team
+        teamdata.map((team) => (
+          <Route
+            path={`team/${team.id}`}
+            element={<TableView team={team} score={sumPoints(team)} />}
+          />
+        ))
+      }
+    </Routes>
   </BrowserRouter>
 );
-
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();

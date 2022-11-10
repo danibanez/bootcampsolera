@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  padding: 10px;
+  margin: auto;
+  background-color: #ecebeb;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  padding: 25px;
+  color: black;
+  font-size: 50px;
+}
+
+.div1 {
+  display: grid;
+  grid-template-columns: repeat(5, auto);
+}
+@media only screen and (max-width: 1469.5px) {
+  h1 {
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 700px) {
+  h1 {
+    font-size: 33px;
+  }
+}
+@media only screen and (max-width: 440px) {
+  h1 {
+    font-size: 20px;
+  }
+}
