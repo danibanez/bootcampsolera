@@ -72,6 +72,10 @@ const teamdata = [
         name: "Desarrollo Inicial React",
         puntos: 5,
       },
+      {
+        name: "Ganadores Actividad .Net",
+        puntos: 10,
+      },
     ],
   },
   {
