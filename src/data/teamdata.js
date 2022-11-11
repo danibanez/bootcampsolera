@@ -5,44 +5,8 @@ const teamdata = [
     name: "EQUIPO AA",
     actividades: [
       {
-        name: "Actividad 1",
+        name: "Desarrollo Inicial React",
         puntos: 5,
-      },
-      {
-        name: "Actividad 2",
-        puntos: 4,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 3,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 2,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 8,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 9,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 10,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 0,
       },
     ],
   },
@@ -51,44 +15,8 @@ const teamdata = [
     name: "ARENAL+",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 6,
-      },
-      {
-        name: "Actividad 2",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 7,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 8,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 6,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 2,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 14,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 8,
+        name: "Desarrollo Inicial React",
+        puntos: 5,
       },
     ],
   },
@@ -97,44 +25,8 @@ const teamdata = [
     name: "CRUCE DE BANDERAS",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 2",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 0,
+        name: "Desarrollo Inicial React",
+        puntos: 5,
       },
     ],
   },
@@ -143,44 +35,8 @@ const teamdata = [
     name: "LUNERA",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 6,
-      },
-      {
-        name: "Actividad 2",
+        name: "Desarrollo Inicial React",
         puntos: 5,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 4,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 3,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 2,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 2,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 3,
       },
     ],
   },
@@ -189,45 +45,13 @@ const teamdata = [
     name: "DEGARA",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 4,
+        name: "Desarrollo Inicial React",
+        puntos: 5,
       },
       {
-        name: "Actividad 2",
-        puntos: 8,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 15,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 16,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 23,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 42,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 0,
-      },
+        name: "Ganadores Desarrollo Inicial React",
+        puntos: 10,
+      }
     ],
   },
   {
@@ -235,44 +59,8 @@ const teamdata = [
     name: "CODEPIRINHA",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 2",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 2,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 3,
-      },
-      {
-        name: "Actividad 6",
+        name: "Desarrollo Inicial React",
         puntos: 5,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 8,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 13,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 21,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 34,
       },
     ],
   },
@@ -281,44 +69,8 @@ const teamdata = [
     name: "JSLOVERS",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 2,
-      },
-      {
-        name: "Actividad 2",
-        puntos: 3,
-      },
-      {
-        name: "Actividad 3",
+        name: "Desarrollo Inicial React",
         puntos: 5,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 7,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 11,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 13,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 17,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 19,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 23,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 29,
       },
     ],
   },
@@ -327,44 +79,8 @@ const teamdata = [
     name: "BUGABIT",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 2",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 1,
+        name: "Desarrollo Inicial React",
+        puntos: 5,
       },
     ],
   },
@@ -373,44 +89,8 @@ const teamdata = [
     name: "LOS PIBES DEL FONDO",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 1,
-      },
-      {
-        name: "Actividad 2",
-        puntos: 3,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 7,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 9,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 13,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 15,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 21,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 25,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 31,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 33,
+        name: "Desarrollo Inicial React",
+        puntos: 5,
       },
     ],
   },
@@ -419,44 +99,8 @@ const teamdata = [
     name: "VALLE SILICONA",
     actividades: [
       {
-        name: "Actividad 1",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 2",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 3",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 4",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 5",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 6",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 7",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 8",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 9",
-        puntos: 0,
-      },
-      {
-        name: "Actividad 10",
-        puntos: 2,
+        name: "Desarrollo Inicial React",
+        puntos: 5,
       },
     ],
   },
