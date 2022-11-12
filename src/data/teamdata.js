@@ -16,7 +16,7 @@ const teamdata = [
     actividades: [
       {
         name: "Desarrollo Inicial React",
-        puntos: 5,
+        puntos: 105,
       },
     ],
   },
