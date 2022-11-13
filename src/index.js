@@ -30,7 +30,7 @@ root.render(
         // A separate table view will be created for each team
         teamdata.map((team) => (
           <Route
-            path={`team/:id`}
+            path={`team/${team.id}`}
             element={<TableView team={team} score={sumPoints(team)} />}
           />
         ))
