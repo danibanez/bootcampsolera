@@ -13,7 +13,6 @@ const teamdata = teamdataJson.teamdata;
 function sumPoints(teamdata) {
   let points = 0;
   teamdata.actividades.forEach((actividad) => {
-    console.log(actividad.puntos);
     points += actividad.puntos;
   });
   return points;
@@ -31,7 +30,7 @@ root.render(
         // A separate table view will be created for each team
         teamdata.map((team) => (
           <Route
-            path={`team/${team.id}`}
+            path={`team/:id`}
             element={<TableView team={team} score={sumPoints(team)} />}
           />
         ))
