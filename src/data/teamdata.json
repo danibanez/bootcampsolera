@@ -7,6 +7,18 @@
         {
           "name": "Desarrollo Inicial React",
           "puntos": 5
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
+          "puntos": 5
+        },
+        {
+          "name": "Segundo puesto API C#",
+          "puntos": 5
         }
       ]
     },
@@ -17,6 +29,18 @@
         {
           "name": "Desarrollo Inicial React",
           "puntos": 5
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
+          "puntos": 5
+        },
+        {
+          "name": "Assesment 4º semana",
+          "puntos": 2
         }
       ]
     },
@@ -27,6 +51,14 @@
         {
           "name": "Desarrollo Inicial React",
           "puntos": 5
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
+          "puntos": 5
         }
       ]
     },
@@ -36,6 +68,14 @@
       "actividades": [
         {
           "name": "Desarrollo Inicial React",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
           "puntos": 5
         }
       ]
@@ -51,6 +91,18 @@
         {
           "name": "Ganadores Desarrollo Inicial React",
           "puntos": 10
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
+          "puntos": 5
+        },
+        {
+          "name": "Assesment 4º semana",
+          "puntos": 2
         }
       ]
     },
@@ -60,6 +112,14 @@
       "actividades": [
         {
           "name": "Desarrollo Inicial React",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
           "puntos": 5
         }
       ]
@@ -75,6 +135,18 @@
         {
           "name": "Ganadores Actividad .Net",
           "puntos": 10
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
+          "puntos": 5
+        },
+        {
+          "name": "Assesment 4º semana",
+          "puntos": 2
         }
       ]
     },
@@ -84,6 +156,18 @@
       "actividades": [
         {
           "name": "Desarrollo Inicial React",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
+          "puntos": 5
+        },
+        {
+          "name": "FuzzBuzz",
           "puntos": 5
         }
       ]
@@ -95,6 +179,18 @@
         {
           "name": "Desarrollo Inicial React",
           "puntos": 5
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
+          "puntos": 5
+        },
+        {
+          "name": "FizzBuzz",
+          "puntos": 5
         }
       ]
     },
@@ -105,6 +201,22 @@
         {
           "name": "Desarrollo Inicial React",
           "puntos": 5
+        },
+        {
+          "name": "Desarrollo Telegram bot",
+          "puntos": 5
+        },
+        {
+          "name": "Desarrollo API C#",
+          "puntos": 5
+        },
+        {
+          "name": "Assesment 4º semana",
+          "puntos": 2
+        },
+        {
+          "name": "Assesment 4º semana",
+          "puntos": 2
         }
       ]
     }
