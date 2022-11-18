@@ -19,6 +19,10 @@
         {
           "name": "Segundo puesto API C#",
           "puntos": 5
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 10
         }
       ]
     },
@@ -41,6 +45,10 @@
         {
           "name": "Assesment 4º semana",
           "puntos": 2
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 17
         }
       ]
     },
@@ -59,6 +67,10 @@
         {
           "name": "Desarrollo API C#",
           "puntos": 5
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 11
         }
       ]
     },
@@ -77,6 +89,10 @@
         {
           "name": "Desarrollo API C#",
           "puntos": 5
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 13
         }
       ]
     },
@@ -103,6 +119,10 @@
         {
           "name": "Assesment 4º semana",
           "puntos": 2
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 11
         }
       ]
     },
@@ -120,6 +140,10 @@
         },
         {
           "name": "Desarrollo API C#",
+          "puntos": 5
+        },
+        {
+          "name": "Bughunting",
           "puntos": 5
         }
       ]
@@ -147,6 +171,10 @@
         {
           "name": "Assesment 4º semana",
           "puntos": 2
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 15
         }
       ]
     },
@@ -169,6 +197,10 @@
         {
           "name": "FuzzBuzz",
           "puntos": 5
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 13
         }
       ]
     },
@@ -191,6 +223,10 @@
         {
           "name": "FizzBuzz",
           "puntos": 5
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 11
         }
       ]
     },
@@ -213,6 +249,14 @@
         {
           "name": "Assesment 4º semana",
           "puntos": 2
+        },
+        {
+          "name": "Assesment 4º semana",
+          "puntos": 2
+        },
+        {
+          "name": "Bughunting",
+          "puntos": 8
         }
       ]
     }
