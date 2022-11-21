@@ -49,6 +49,18 @@
         {
           "name": "Bughunting",
           "puntos": 17
+        },
+        {
+          "name": "Bot de Telegram, ganador popular",
+          "puntos": 5
+        },
+        {
+          "name": "Bot de Telegram, mejor presentación",
+          "puntos": 5
+        },
+        {
+          "name": "Bot de Telegram, jurado profesional",
+          "puntos": 5
         }
       ]
     },
