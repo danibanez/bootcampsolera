@@ -135,6 +135,10 @@
         {
           "name": "Bughunting",
           "puntos": 11
+        },
+        {
+          "name": "Rover test",
+          "puntos": 20
         }
       ]
     },
